@@ -1,0 +1,13 @@
+// Apuntes de C#
+// Autor: Angel
+void.
+static void. accede directamente 
+
+diferencia entre método y función
+
+un bloque es un procedimiento o función si no está en una clase
+
+get es para extraer e importar valores
+
+examen a las 7pm
+*/

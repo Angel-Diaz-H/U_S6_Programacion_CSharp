@@ -1,0 +1,15 @@
+/workspaces/codespaces_c-/ejercicio3/bin/Debug/net8.0/ejercicio3
+/workspaces/codespaces_c-/ejercicio3/bin/Debug/net8.0/ejercicio3.deps.json
+/workspaces/codespaces_c-/ejercicio3/bin/Debug/net8.0/ejercicio3.runtimeconfig.json
+/workspaces/codespaces_c-/ejercicio3/bin/Debug/net8.0/ejercicio3.dll
+/workspaces/codespaces_c-/ejercicio3/bin/Debug/net8.0/ejercicio3.pdb
+/workspaces/codespaces_c-/ejercicio3/obj/Debug/net8.0/ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces_c-/ejercicio3/obj/Debug/net8.0/ejercicio3.AssemblyInfoInputs.cache
+/workspaces/codespaces_c-/ejercicio3/obj/Debug/net8.0/ejercicio3.AssemblyInfo.cs
+/workspaces/codespaces_c-/ejercicio3/obj/Debug/net8.0/ejercicio3.csproj.CoreCompileInputs.cache
+/workspaces/codespaces_c-/ejercicio3/obj/Debug/net8.0/ejercicio3.sourcelink.json
+/workspaces/codespaces_c-/ejercicio3/obj/Debug/net8.0/ejercicio3.dll
+/workspaces/codespaces_c-/ejercicio3/obj/Debug/net8.0/refint/ejercicio3.dll
+/workspaces/codespaces_c-/ejercicio3/obj/Debug/net8.0/ejercicio3.pdb
+/workspaces/codespaces_c-/ejercicio3/obj/Debug/net8.0/ejercicio3.genruntimeconfig.cache
+/workspaces/codespaces_c-/ejercicio3/obj/Debug/net8.0/ref/ejercicio3.dll

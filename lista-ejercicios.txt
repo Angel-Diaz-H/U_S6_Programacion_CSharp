@@ -1,0 +1,18 @@
+3. Realizar un programa que pida 2 números al usuario y sume dichos números. 
+4. Realizar un programa que pida 2 números al usuario y reste dichos números. 
+5. Realizar un programa que pida 2 números al usuario y multiplique dichos números. 
+6. Realizar un programa que obtenga el promedio de 3 calificaciones. 
+7. Realizar un programa que obtenga el cuadrado de un número. 
+8. Realizar un programa que obtenga el área del cuadrado. 
+9. Realizar un programa que calcule el perímetro de un cuadrado. 
+10. Realizar un programa que calcule el área de un círculo. 
+11. Realizar un programa que calcule el perímetro de un círculo. 
+12. Realizar un programa que calcule el área de un rectángulo. 
+13. Realizar un programa que calcule el área de un triángulo. 
+14. Realizar un programa que calcule el porcentaje de una cantidad. 
+15. Realizar un programa que convierta de dólares a pesos. 
+16. Realizar un programa que convierta de dólares a euros. 
+17. Realizar un programa que convierta de Pesos a dólares. 
+18. Realizar un programa que convierta de Pesos a euros. 
+19. Realizar un programa que convierta de euros a pesos. 
+20. Realizar un programa que convierta de euros a dólares.
