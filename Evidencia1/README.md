@@ -1,18 +1,38 @@
-# Evidencia 1. Ejercicios de C#.
+# Evidencia 1: Ejercicios (3-20).
 
-Abrir consola:
-ctrl + ñ
+En esta evidencia, se presentan los pasos necesarios para crear y ejecutar proyectos de consola en **C#**.
 
-Crear un proyecto de consola:
+## Pasos a seguir
+
+### 1. **Abrir la consola**  
+Para abrir la consola, usa el siguiente atajo:
+- **Ctrl + ñ**
+
+### 2. **Crear un proyecto de consola**
+Ejecuta el siguiente comando para crear un proyecto de consola:
+```bash
 dotnet new console -n ejercicio3
+```
 
-Crear n proyectos de consola en una sola línea de comando:
+### 3. Crear múltiples proyectos de consola en una sola línea de comando
+Si deseas crear varios proyectos de consola en una sola línea, puedes usar el siguiente comando:
+```bash
 for i in {4..20}; do dotnet new console -n ejercicio$i; done
+```
 
-![alt text](/readme-info/image.png)
-
-Ingresar a la carpeta:
+### 4. Ingresar a la carpeta del proyecto
+Para ingresar a la carpeta del proyecto recién creado, usa el comando:
+```bash
 cd ejercicio3
+```
 
-Ejecutar:
+### 5. Ejecutar el proyecto
+Para ejecutar el proyecto, usa:
+```bash
 dotnet run
+```
+
+### ¿Preguntas o sugerencias?
+Si tienes alguna duda o sugerencia, no dudes en contactarme o abrir un **pull request.**
+
+**Autor:** Angel Díaz.
