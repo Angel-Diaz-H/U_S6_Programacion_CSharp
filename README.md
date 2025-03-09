@@ -1,18 +1,21 @@
-# Evidencia 1. Ejercicios de C#.
+# Programación de Aplicaciones Locales
 
-Abrir consola:
-ctrl + ñ
+Este repositorio contiene los proyectos realizados durante el semestre de la materia **Programación de Aplicaciones Locales** de la **Licenciatura en Tecnologías de la Información** en la **UANL**.
 
-Crear un proyecto de consola:
-dotnet new console -n ejercicio3
+📂 **Contenido**:
+- Ejercicios de prácticas.
+- Evidencias para aplicar **conceptos de programación orientada a objetos (POO)** en **C#**.
 
-Crear n proyectos de consola en una sola línea de comando:
-for i in {4..20}; do dotnet new console -n ejercicio$i; done
+🔧 **Tecnologías utilizadas**:
+- C#
+- .NET
 
-![alt text](/readme-info/image.png)
+💡 **Objetivo**: Aplicar y reforzar los conocimientos adquiridos en la materia mediante proyectos prácticos y ejercicios de programación.
 
-Ingresar a la carpeta:
-cd ejercicio3
+🚀 Si tienes sugerencias o mejoras, no dudes en hacer un **pull request**. ¡Serán muy bien recibidas!
 
-Ejecutar:
-dotnet run
+---
+
+**Autor**: Angel Díaz  
+**Licenciatura en Tecnologías de la Información**  
+**UANL**
