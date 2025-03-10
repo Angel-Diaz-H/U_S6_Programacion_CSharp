@@ -6,7 +6,7 @@ En esta evidencia, se presentan los pasos necesarios para crear y ejecutar proye
 
 ### 1. **Abrir la consola**  
 Para abrir la consola, usa el siguiente atajo:
-- **Ctrl + ñ**
+- **Ctrl + ñ** 
 
 ### 2. **Crear un proyecto de consola**
 Ejecuta el siguiente comando para crear un proyecto de consola:
