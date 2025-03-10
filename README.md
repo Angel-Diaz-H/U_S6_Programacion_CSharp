@@ -16,5 +16,7 @@ Este repositorio contiene los proyectos realizados durante el semestre de la mat
 ---
 
 **Autor**: Angel Díaz.
+
 **Licenciatura en Tecnologías de Información.**
+
 **UANL.**
