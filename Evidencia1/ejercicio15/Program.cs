@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//15. Realizar un programa que convierta de dólares a pesos. 
+
+Console.WriteLine("Programa para convertir dólares a pesos.")
