@@ -17,7 +17,7 @@ dotnet new console -n ejercicio3
 ### 3. Crear múltiples proyectos de consola en una sola línea de comando
 Si deseas crear varios proyectos de consola en una sola línea, puedes usar el siguiente comando:
 ```bash
-for i in {4..20}; do dotnet new console -n ejercicio$i; done
+for i in {2..20}; do dotnet new console -n complemento$i; done
 ```
 
 ### 4. Ingresar a la carpeta del proyecto
