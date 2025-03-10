@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/codespaces_c-/Evidencia1/MenuConversiones/MenuConversiones.csproj",
-      "projectName": "MenuConversiones",
-      "projectPath": "/workspaces/codespaces_c-/Evidencia1/MenuConversiones/MenuConversiones.csproj",
+      "projectUniqueName": "/workspaces/codespaces_c-/EjerciciosComplementarios/LearnListasYArrays1/LearnListasYArrays1.csproj",
+      "projectName": "LearnListasYArrays1",
+      "projectPath": "/workspaces/codespaces_c-/EjerciciosComplementarios/LearnListasYArrays1/LearnListasYArrays1.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/codespaces_c-/Evidencia1/MenuConversiones/obj/",
+      "outputPath": "/workspaces/codespaces_c-/EjerciciosComplementarios/LearnListasYArrays1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

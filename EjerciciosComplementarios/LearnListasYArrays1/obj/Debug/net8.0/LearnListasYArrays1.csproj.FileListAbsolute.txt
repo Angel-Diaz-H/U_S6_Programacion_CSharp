@@ -1,0 +1,15 @@
+/workspaces/codespaces_c-/EjerciciosComplementarios/LearnListasYArrays1/obj/Debug/net8.0/LearnListasYArrays1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces_c-/EjerciciosComplementarios/LearnListasYArrays1/obj/Debug/net8.0/LearnListasYArrays1.AssemblyInfoInputs.cache
+/workspaces/codespaces_c-/EjerciciosComplementarios/LearnListasYArrays1/obj/Debug/net8.0/LearnListasYArrays1.AssemblyInfo.cs
+/workspaces/codespaces_c-/EjerciciosComplementarios/LearnListasYArrays1/obj/Debug/net8.0/LearnListasYArrays1.csproj.CoreCompileInputs.cache
+/workspaces/codespaces_c-/EjerciciosComplementarios/LearnListasYArrays1/obj/Debug/net8.0/LearnListasYArrays1.sourcelink.json
+/workspaces/codespaces_c-/EjerciciosComplementarios/LearnListasYArrays1/bin/Debug/net8.0/LearnListasYArrays1
+/workspaces/codespaces_c-/EjerciciosComplementarios/LearnListasYArrays1/bin/Debug/net8.0/LearnListasYArrays1.deps.json
+/workspaces/codespaces_c-/EjerciciosComplementarios/LearnListasYArrays1/bin/Debug/net8.0/LearnListasYArrays1.runtimeconfig.json
+/workspaces/codespaces_c-/EjerciciosComplementarios/LearnListasYArrays1/bin/Debug/net8.0/LearnListasYArrays1.dll
+/workspaces/codespaces_c-/EjerciciosComplementarios/LearnListasYArrays1/bin/Debug/net8.0/LearnListasYArrays1.pdb
+/workspaces/codespaces_c-/EjerciciosComplementarios/LearnListasYArrays1/obj/Debug/net8.0/LearnListasYArrays1.dll
+/workspaces/codespaces_c-/EjerciciosComplementarios/LearnListasYArrays1/obj/Debug/net8.0/refint/LearnListasYArrays1.dll
+/workspaces/codespaces_c-/EjerciciosComplementarios/LearnListasYArrays1/obj/Debug/net8.0/LearnListasYArrays1.pdb
+/workspaces/codespaces_c-/EjerciciosComplementarios/LearnListasYArrays1/obj/Debug/net8.0/LearnListasYArrays1.genruntimeconfig.cache
+/workspaces/codespaces_c-/EjerciciosComplementarios/LearnListasYArrays1/obj/Debug/net8.0/ref/LearnListasYArrays1.dll
