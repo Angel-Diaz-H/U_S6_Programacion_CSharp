@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/codespaces_c-/ejercicio19/ejercicio19.csproj",
+      "projectUniqueName": "/workspaces/codespaces_c-/Evidencia1/ejercicio19/ejercicio19.csproj",
       "projectName": "ejercicio19",
-      "projectPath": "/workspaces/codespaces_c-/ejercicio19/ejercicio19.csproj",
+      "projectPath": "/workspaces/codespaces_c-/Evidencia1/ejercicio19/ejercicio19.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/codespaces_c-/ejercicio19/obj/",
+      "outputPath": "/workspaces/codespaces_c-/Evidencia1/ejercicio19/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

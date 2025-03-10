@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/codespaces_c-/ejercicio20/ejercicio20.csproj": {}
+    "/workspaces/codespaces_c-/Evidencia1/ejercicio20/ejercicio20.csproj": {}
   },
   "projects": {
-    "/workspaces/codespaces_c-/ejercicio20/ejercicio20.csproj": {
+    "/workspaces/codespaces_c-/Evidencia1/ejercicio20/ejercicio20.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/codespaces_c-/ejercicio20/ejercicio20.csproj",
+        "projectUniqueName": "/workspaces/codespaces_c-/Evidencia1/ejercicio20/ejercicio20.csproj",
         "projectName": "ejercicio20",
-        "projectPath": "/workspaces/codespaces_c-/ejercicio20/ejercicio20.csproj",
+        "projectPath": "/workspaces/codespaces_c-/Evidencia1/ejercicio20/ejercicio20.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/codespaces_c-/ejercicio20/obj/",
+        "outputPath": "/workspaces/codespaces_c-/Evidencia1/ejercicio20/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"

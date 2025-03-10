@@ -84,7 +84,7 @@ Console.ReadKey();
 
 static int Suma (int PNumero1, int PNumero2 ) 
 {
-    return (PNumero1 + PNumero2};
+    return (PNumero1 + PNumero2;
 }
 
 
