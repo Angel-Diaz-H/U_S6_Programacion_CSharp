@@ -3,7 +3,7 @@
 //Entrada, operación y salida.
 class Program{
     static void Main(){
-        while (true) {
+        while (true) { 
             MenuMostrar();
             int opc = EntradaOpcion();
             if (opc == 5){
