@@ -1,0 +1,15 @@
+/workspaces/codespaces_c-/Evidencia1/ejercicio13/bin/Debug/net8.0/ejercicio13
+/workspaces/codespaces_c-/Evidencia1/ejercicio13/bin/Debug/net8.0/ejercicio13.deps.json
+/workspaces/codespaces_c-/Evidencia1/ejercicio13/bin/Debug/net8.0/ejercicio13.runtimeconfig.json
+/workspaces/codespaces_c-/Evidencia1/ejercicio13/bin/Debug/net8.0/ejercicio13.dll
+/workspaces/codespaces_c-/Evidencia1/ejercicio13/bin/Debug/net8.0/ejercicio13.pdb
+/workspaces/codespaces_c-/Evidencia1/ejercicio13/obj/Debug/net8.0/ejercicio13.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces_c-/Evidencia1/ejercicio13/obj/Debug/net8.0/ejercicio13.AssemblyInfoInputs.cache
+/workspaces/codespaces_c-/Evidencia1/ejercicio13/obj/Debug/net8.0/ejercicio13.AssemblyInfo.cs
+/workspaces/codespaces_c-/Evidencia1/ejercicio13/obj/Debug/net8.0/ejercicio13.csproj.CoreCompileInputs.cache
+/workspaces/codespaces_c-/Evidencia1/ejercicio13/obj/Debug/net8.0/ejercicio13.sourcelink.json
+/workspaces/codespaces_c-/Evidencia1/ejercicio13/obj/Debug/net8.0/ejercicio13.dll
+/workspaces/codespaces_c-/Evidencia1/ejercicio13/obj/Debug/net8.0/refint/ejercicio13.dll
+/workspaces/codespaces_c-/Evidencia1/ejercicio13/obj/Debug/net8.0/ejercicio13.pdb
+/workspaces/codespaces_c-/Evidencia1/ejercicio13/obj/Debug/net8.0/ejercicio13.genruntimeconfig.cache
+/workspaces/codespaces_c-/Evidencia1/ejercicio13/obj/Debug/net8.0/ref/ejercicio13.dll
