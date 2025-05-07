@@ -4,7 +4,8 @@ b.	Tu edad es.
 c.	Tu dirección es.
 */
 
-string Nombre, Edad, Direccion;
+string Nombre, Direccion;
+int Edad;
 
 Console.WriteLine("Ingresa tu nombre completo: ");
 Nombre = Console.ReadLine();

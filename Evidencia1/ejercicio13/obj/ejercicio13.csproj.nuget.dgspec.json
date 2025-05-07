@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/codespaces_c-/Evidencia1/ejercicio13/ejercicio13.csproj": {}
+    "/workspaces/U_S6_Programacion_CSharp/Evidencia1/ejercicio13/ejercicio13.csproj": {}
   },
   "projects": {
-    "/workspaces/codespaces_c-/Evidencia1/ejercicio13/ejercicio13.csproj": {
+    "/workspaces/U_S6_Programacion_CSharp/Evidencia1/ejercicio13/ejercicio13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/codespaces_c-/Evidencia1/ejercicio13/ejercicio13.csproj",
+        "projectUniqueName": "/workspaces/U_S6_Programacion_CSharp/Evidencia1/ejercicio13/ejercicio13.csproj",
         "projectName": "ejercicio13",
-        "projectPath": "/workspaces/codespaces_c-/Evidencia1/ejercicio13/ejercicio13.csproj",
+        "projectPath": "/workspaces/U_S6_Programacion_CSharp/Evidencia1/ejercicio13/ejercicio13.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/codespaces_c-/Evidencia1/ejercicio13/obj/",
+        "outputPath": "/workspaces/U_S6_Programacion_CSharp/Evidencia1/ejercicio13/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
