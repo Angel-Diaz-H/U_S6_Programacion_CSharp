@@ -1,0 +1,5 @@
+/workspaces/U_S6_Programacion_CSharp/EjerciciosComplementarios/Ejercicios-para-final/ejercicio1/obj/Debug/net8.0/ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/U_S6_Programacion_CSharp/EjerciciosComplementarios/Ejercicios-para-final/ejercicio1/obj/Debug/net8.0/ejercicio1.AssemblyInfoInputs.cache
+/workspaces/U_S6_Programacion_CSharp/EjerciciosComplementarios/Ejercicios-para-final/ejercicio1/obj/Debug/net8.0/ejercicio1.AssemblyInfo.cs
+/workspaces/U_S6_Programacion_CSharp/EjerciciosComplementarios/Ejercicios-para-final/ejercicio1/obj/Debug/net8.0/ejercicio1.csproj.CoreCompileInputs.cache
+/workspaces/U_S6_Programacion_CSharp/EjerciciosComplementarios/Ejercicios-para-final/ejercicio1/obj/Debug/net8.0/ejercicio1.sourcelink.json

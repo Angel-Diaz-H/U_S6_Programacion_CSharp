@@ -1,0 +1,15 @@
+/workspaces/U_S6_Programacion_CSharp/Evidencia2/ejercicio9/bin/Debug/net8.0/ejercicio9
+/workspaces/U_S6_Programacion_CSharp/Evidencia2/ejercicio9/bin/Debug/net8.0/ejercicio9.deps.json
+/workspaces/U_S6_Programacion_CSharp/Evidencia2/ejercicio9/bin/Debug/net8.0/ejercicio9.runtimeconfig.json
+/workspaces/U_S6_Programacion_CSharp/Evidencia2/ejercicio9/bin/Debug/net8.0/ejercicio9.dll
+/workspaces/U_S6_Programacion_CSharp/Evidencia2/ejercicio9/bin/Debug/net8.0/ejercicio9.pdb
+/workspaces/U_S6_Programacion_CSharp/Evidencia2/ejercicio9/obj/Debug/net8.0/ejercicio9.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/U_S6_Programacion_CSharp/Evidencia2/ejercicio9/obj/Debug/net8.0/ejercicio9.AssemblyInfoInputs.cache
+/workspaces/U_S6_Programacion_CSharp/Evidencia2/ejercicio9/obj/Debug/net8.0/ejercicio9.AssemblyInfo.cs
+/workspaces/U_S6_Programacion_CSharp/Evidencia2/ejercicio9/obj/Debug/net8.0/ejercicio9.csproj.CoreCompileInputs.cache
+/workspaces/U_S6_Programacion_CSharp/Evidencia2/ejercicio9/obj/Debug/net8.0/ejercicio9.sourcelink.json
+/workspaces/U_S6_Programacion_CSharp/Evidencia2/ejercicio9/obj/Debug/net8.0/ejercicio9.dll
+/workspaces/U_S6_Programacion_CSharp/Evidencia2/ejercicio9/obj/Debug/net8.0/refint/ejercicio9.dll
+/workspaces/U_S6_Programacion_CSharp/Evidencia2/ejercicio9/obj/Debug/net8.0/ejercicio9.pdb
+/workspaces/U_S6_Programacion_CSharp/Evidencia2/ejercicio9/obj/Debug/net8.0/ejercicio9.genruntimeconfig.cache
+/workspaces/U_S6_Programacion_CSharp/Evidencia2/ejercicio9/obj/Debug/net8.0/ref/ejercicio9.dll
