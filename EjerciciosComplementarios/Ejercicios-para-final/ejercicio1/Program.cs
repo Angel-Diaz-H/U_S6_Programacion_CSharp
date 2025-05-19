@@ -17,3 +17,5 @@ static void SolicitarDatos()
 
     Console.WriteLine($"La suma de {num1} y {num2} es: {Resultado}");
 }
+
+SolicitarDatos();
